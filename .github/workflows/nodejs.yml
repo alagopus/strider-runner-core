@@ -29,8 +29,8 @@ jobs:
         npm install
     - name: npm lint, test and posttest
       run: |
-        npm lint
-        npm test
-        npm posttest
+        npm run lint
+        npm run test
+        npm run posttest
       env:
         CI: true
