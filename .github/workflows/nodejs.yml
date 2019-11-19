@@ -31,6 +31,5 @@ jobs:
       run: |
         npm run lint
         npm run test
-        npm run posttest
       env:
         CI: true
