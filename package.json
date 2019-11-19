@@ -31,14 +31,14 @@
   "readmeFilename": "README.md",
   "devDependencies": {
     "chai": "^4.2.0",
-    "eslint": "^4.19.1",
+    "eslint": "^5.16.0",
     "expect.js": "~0.3.1",
     "istanbul": "~0.4.3",
     "mocha": "^5.2.0"
   },
   "dependencies": {
     "async": "~0.2.9",
-    "debug": "^2.2.0",
+    "debug": "^3.2.6",
     "execa": "^0.4.0",
     "lodash": "^4.17.15",
     "mkdirp": "~0.3.5",
